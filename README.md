@@ -1,6 +1,6 @@
 ## Reinforcement-Learning
 
-This repository aims to document an end-to-end guide to learning RL from scratch.
+This repository aims to document my journey to learning RL.
 
 Contents from various courses, books, articles and videos already exisiting for free will be used to create a comprehensive and easy to follow guide.
 
